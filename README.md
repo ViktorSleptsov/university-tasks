@@ -1,4 +1,3 @@
-<img width="772" height="252" alt="image" src="https://github.com/user-attachments/assets/a33cae98-bff5-4cd3-8aaf-c7b2205ebe30" />
 # Группа: КИ-24
 
 ФИО: Слепцов Виктор Александрович
